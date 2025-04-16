@@ -9,7 +9,7 @@ Base Distance: 15 meters
 - With **Dash** you can sabotage hooks and go away from hook, so it will be broken.
 - You can repair gens and go away too
 
-[T] - Jump *(funny function)*
+[T] - Jump *(funny function & rage function)*
 Base Strength: 35
 
 - With **Jump** you can also infinite jumping and jump on objects
