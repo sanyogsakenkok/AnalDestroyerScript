@@ -34,9 +34,9 @@ Like: Dash with 500 meters
 # AUTO INJECTED FUNCTIONS
 *Explosing Sound & Notifier* - if you heard sound and saw notify "Injected Successfully" then all is OK
 
-*ESP* - allows to see all players on the map
+*ESP* - allows to see all players on the map | *(safe function)*
 
-*FOV* - increases field of view to 200 *(you can change this parameter)*
+*FOV* - increases field of view to 200 *(you can change this parameter)* | *(safe function)*
 
 You can delete it in *.lua file* if you wish
 
@@ -51,7 +51,7 @@ You can delete it in *.lua file* if you wish
 
 --
 Upcoming functions:
-- Speedhack
+- Speedhack *(legit version)*
 
 These functions MAYBE will be added:
 - sabotage hooks everywhere
