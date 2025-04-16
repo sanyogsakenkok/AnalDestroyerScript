@@ -23,6 +23,9 @@ Base Strength: 35
 - With **Jump** you can also infinite jumping and jump on objects
 - Can't Jumping while doing something
 
+![0416(1)](https://github.com/user-attachments/assets/787e5a55-717f-4114-ae73-0d10f3cf5fbe)
+
+
 All of these functions can be edited by You
 
 Like: Dash with 500 meters
