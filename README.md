@@ -12,7 +12,7 @@ Base Distance: 15 meters
 [T] - Jump *(funny function)*
 Base Strength: 35
 
-- With **Jump** you can also infinite jumping on objects
+- With **Jump** you can also infinite jumping and jump on objects
 - Can't Jumping while doing something
 
 
