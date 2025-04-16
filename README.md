@@ -27,6 +27,8 @@ Base Strength: 35
 
 --
 Upcoming functions:
+- Speedhack
+
+These functions MAYBE will be added:
 - sabotage hooks everywhere
-- infinite items
-- infinite perks usage
+- infinite items & perks usage
