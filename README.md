@@ -3,12 +3,15 @@ Wanna troll someone?
 Wanna 100% winrate?
 DeadByRoblox Destroyed by this script!
 
+Also used with JJSploit but you can use something else
+If something is works wrong ask me
+
 
 # FUNCTIONS
 [F] - Dash *(most powerful function & rage function)*
 Base Distance: 15 meters
 
-- With **Dash** you can sabotage hooks and go away from hook, so it will be broken.
+- With **Dash** you can sabotage hooks and go away from hook so it will be broken.
 - You can repair gens and go away too
 
 [T] - Jump *(funny function & rage function)*
