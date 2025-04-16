@@ -32,7 +32,7 @@ Base Value: 18
 - Recommended value is 18 - 19 (+- killer's speed)
 - For it's work you need Press Q and use any emotion(Press 1 or 2)
 
-![0416(3)](https://github.com/user-attachments/assets/35fbef9b-0ee1-4835-853f-1d9170eeb98c)
+![0416(6)](https://github.com/user-attachments/assets/fc7d0293-eb93-4fe6-8bae-900f87e035e0)
 
 
 <ins>NOTE:</ins>
@@ -51,7 +51,7 @@ Like: Dash with 500 meters
 
 You can delete it in *.lua file* if you wish
 
-![0416(4)](https://github.com/user-attachments/assets/c7f4cdec-7871-4c38-9f97-cdb47784d210)
+![0416(5)](https://github.com/user-attachments/assets/a39b413f-02e8-449f-b218-d94ec69cf9ab)
 
 
 # CREDITS
