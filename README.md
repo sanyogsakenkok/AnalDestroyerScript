@@ -36,6 +36,7 @@ Base Value: 18
 
 
 <ins>NOTE:</ins>
+
 All of these functions can be edited by You
 
 Like: Dash with 500 meters
