@@ -17,6 +17,10 @@ Base Strength: 35
 - With **Jump** you can also infinite jumping and jump on objects
 - Can't Jumping while doing something
 
+All of these functions can be edited by You
+
+Like: Dash with 500 meters
+
 
 # AUTO INJECTED FUNCTIONS
 *ESP* - allows to see all players on the map
