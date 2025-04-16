@@ -51,7 +51,7 @@ Like: Dash with 500 meters
 
 You can delete it in *.lua file* if you wish
 
-![0416(2)](https://github.com/user-attachments/assets/d763ed60-1313-43e9-969b-47683584f0ef)
+![0416(4)](https://github.com/user-attachments/assets/c7f4cdec-7871-4c38-9f97-cdb47784d210)
 
 
 # CREDITS
