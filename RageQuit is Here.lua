@@ -1,4 +1,3 @@
--- Base settings while injecting
 local UIS = game:GetService("UserInputService")
 local VIM = game:GetService("VirtualInputManager")
 
@@ -26,6 +25,24 @@ task.delay(5, function()
     gui:Destroy()
 end)
 
+
+-- [FUNCTION] FOV Changer
+local Player = game:GetService("Players").LocalPlayer
+local Camera = workspace.CurrentCamera
+local RunService = game:GetService("RunService")
+
+local DesiredFOV = 200 -- Your FOV value
+
+if Camera then
+    Camera.FieldOfView = DesiredFOV
+end
+
+RunService.RenderStepped:Connect(function()
+    if Camera and Camera.FieldOfView ~= DesiredFOV then
+        Camera.FieldOfView = DesiredFOV
+    end
+end)
+-- [FUNCTION] ESP
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local RunService = game:GetService("RunService")
@@ -42,8 +59,8 @@ local function HighlightPlayers()
         end
     end
 end
-
 RunService.Heartbeat:Connect(HighlightPlayers)
+
 -- [FUNCTION] Jump : "T" bind (rage function)
 local UserInputService = game:GetService("UserInputService")
 local Players = game:GetService("Players")
@@ -52,8 +69,7 @@ local character = player.Character or player.CharacterAdded:Wait()
 local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
 
 local jumpForce = 35 -- Your jump force value
-
-UserInputService.InputBegan:Connect(function(input, gameProcessed)
+UserInputService.InputBegan:Connect(function(input, gameProcessed) -- Activate JUMP
 	if gameProcessed then return end
 	if input.KeyCode == Enum.KeyCode.T then
 		humanoidRootPart.Velocity = Vector3.new(0, jumpForce, 0)
@@ -88,34 +104,49 @@ local function dash()
     task.wait(COOLDOWN)
     canDash = true
 end
-
-UIS.InputBegan:Connect(function(input, gameProcessed)
+UIS.InputBegan:Connect(function(input, gameProcessed) -- Activate DASH
     if input.KeyCode == Enum.KeyCode.F and not gameProcessed then
         dash()
     end
 end)
--- [FUNCTION] FOV Changer
-local Player = game:GetService("Players").LocalPlayer
-local Camera = workspace.CurrentCamera
-local RunService = game:GetService("RunService")
-
-local DesiredFOV = 200 -- Your FOV value
-
-if Camera then
-    Camera.FieldOfView = DesiredFOV
-end
-
-RunService.RenderStepped:Connect(function()
-    if Camera and Camera.FieldOfView ~= DesiredFOV then
-        Camera.FieldOfView = DesiredFOV
-    end
-end)
 
 -- [FUNCTION] SpeedHack : "Q" bind
--- soon...
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local UIS = game:GetService("UserInputService")
 
+local player = Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoid = character:WaitForChild("Humanoid")
 
+local speedhacked = false
+local normalSpeed = 16
+local boostedSpeed = 18 -- Killer's speed without bloodlust!
+local connection = nil
 
+local function speedhack()
+    speedhacked = not speedhacked
+    
+    if connection then
+        connection:Disconnect()
+        connection = nil
+    end
+    
+    if speedhacked then
+        connection = RunService.Heartbeat:Connect(function()
+            humanoid.WalkSpeed = boostedSpeed
+        end)
+    else
+        humanoid.WalkSpeed = normalSpeed
+    end
+end
+
+UIS.InputBegan:Connect(function(input, gameProcessed)
+    if input.KeyCode == Enum.KeyCode.Q and not gameProcessed then
+        speedhack()
+    end
+end)
+humanoid.WalkSpeed = normalSpeed
 
 
 -- ORIGINAL MADED BY:
@@ -124,4 +155,4 @@ end)
 
 -- CREATED AT: [15.04.2025]
 -- LAST UPDATED: [16.04.2025]
--- VERSION: dbrd-gang.cheat:AnalDestroyer>>1.1.0
+-- VERSION: dbrd-gang.cheat:AnalDestroyer>>1.2.0
