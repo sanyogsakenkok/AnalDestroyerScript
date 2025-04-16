@@ -4,6 +4,7 @@ Wanna 100% winrate?
 DeadByRoblox Destroyed by this script!
 
 Also used with JJSploit but you can use something else
+
 If something is works wrong ask me
 
 
