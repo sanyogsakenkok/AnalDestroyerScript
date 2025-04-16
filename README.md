@@ -69,7 +69,7 @@ You can delete it in *.lua file* if you wish
 **version:** 1.1.0
 
 **Full Showcase of Script:**
-*here will be link!*
+[*CLICK!*](https://www.youtube.com/watch?v=ZgmwMnn60zc)
 
 ## UPCOMING FUNCTIONS
 - No ideas right now 😢
