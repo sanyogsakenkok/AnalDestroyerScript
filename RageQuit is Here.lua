@@ -94,7 +94,7 @@ UIS.InputBegan:Connect(function(input, gameProcessed)
         dash()
     end
 end)
--- [FUNCTION] FOV Changer : "V" bind
+-- [FUNCTION] FOV Changer
 local Player = game:GetService("Players").LocalPlayer
 local Camera = workspace.CurrentCamera
 local RunService = game:GetService("RunService")
