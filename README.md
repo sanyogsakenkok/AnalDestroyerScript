@@ -24,7 +24,7 @@ Base Strength: 35
 *FOV* - increases field of view to 200 *(you can change this parameter)*
 
 # CREDITS
-*asdqwes32* && *GlebASS*
+*SanyogSakenKok* && *GlebASS*
 **version:** 1.1.0
 
 --
