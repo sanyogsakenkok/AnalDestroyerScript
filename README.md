@@ -32,6 +32,8 @@ Like: Dash with 500 meters
 
 
 # AUTO INJECTED FUNCTIONS
+*Explosing Sound & Notifier* - if you heard sound and saw notify "Injected Successfully" then all is OK
+
 *ESP* - allows to see all players on the map
 
 *FOV* - increases field of view to 200 *(you can change this parameter)*
