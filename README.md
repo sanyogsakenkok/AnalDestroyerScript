@@ -71,9 +71,8 @@ You can delete it in *.lua file* if you wish
 **Full Showcase of Script:**
 *here will be link!*
 
---
-Upcoming functions:
-- Speedhack *(legit version)*
+## UPCOMING FUNCTIONS
+- No ideas right now 😢
 
 These functions MAYBE will be added:
 - sabotage hooks everywhere
