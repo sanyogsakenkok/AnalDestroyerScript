@@ -9,7 +9,7 @@ If something is works wrong ask me
 
 
 # FUNCTIONS
-[F] - Dash *(most powerful function & rage function)*
+[F] - Dash *(most powerful, rage function)*
 Base Distance: 15 meters
 
 - With **Dash** you can sabotage hooks and go away from hook so it will be broken
@@ -17,7 +17,7 @@ Base Distance: 15 meters
 
 ![0416](https://github.com/user-attachments/assets/1fe39ef6-4edd-4d0d-9980-4268312eb39b)
 
-[T] - Jump *(funny function & rage function)*
+[T] - Jump *(funny, rage function)*
 Base Strength: 35
 
 - With **Jump** you can also infinite jumping and jump on objects
