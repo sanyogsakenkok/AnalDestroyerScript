@@ -38,6 +38,9 @@ Like: Dash with 500 meters
 
 You can delete it in *.lua file* if you wish
 
+![0416(2)](https://github.com/user-attachments/assets/d763ed60-1313-43e9-969b-47683584f0ef)
+
+
 # CREDITS
 [DEADBYROBLOXDESTROYERS GANG]
 
