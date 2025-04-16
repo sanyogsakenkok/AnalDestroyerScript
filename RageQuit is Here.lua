@@ -1,8 +1,8 @@
--- Базовые Значения При Инжекте
+-- Base settings while injecting
 local UIS = game:GetService("UserInputService")
 local VIM = game:GetService("VirtualInputManager")
 
--- Отображается справа нотифи о том, что чiт заинжекчен
+-- Notify about injection
 game.StarterGui:SetCore("SendNotification", { 
     Title = "Anal Destroyer",
     Text = "Injected successfully",
@@ -15,10 +15,10 @@ local SoundService = game:GetService("SoundService")
 local gui = Instance.new("ScreenGui")
 gui.Parent = LocalPlayer:WaitForChild("PlayerGui")
 
--- звук при инжекте
+-- Sound if injected successfully
 local sound = Instance.new("Sound")
-sound.SoundId = "rbxassetid://7405939280" -- ID звука
-sound.Volume = 5 -- Громкость
+sound.SoundId = "rbxassetid://7405939280" -- Sound ID
+sound.Volume = 5
 sound.Parent = gui
 
 sound:Play()
@@ -44,15 +44,14 @@ local function HighlightPlayers()
 end
 
 RunService.Heartbeat:Connect(HighlightPlayers)
--- [FUNCTION] Jump : T бинд
+-- [FUNCTION] Jump : "T" bind (rage function)
 local UserInputService = game:GetService("UserInputService")
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 local character = player.Character or player.CharacterAdded:Wait()
 local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
 
--- Сила прыжка
-local jumpForce = 35
+local jumpForce = 35 -- Your jump force value
 
 UserInputService.InputBegan:Connect(function(input, gameProcessed)
 	if gameProcessed then return end
@@ -61,7 +60,7 @@ UserInputService.InputBegan:Connect(function(input, gameProcessed)
 	end
 end)
 
--- [FUNCTION] Dash на 15метров(базовое значение) : F бинд
+-- [FUNCTION] Dash : "F" bind (rage function)
 local Player = game:GetService("Players").LocalPlayer
 local UIS = game:GetService("UserInputService")
 local Character = Player.Character or Player.CharacterAdded:Wait()
@@ -79,7 +78,7 @@ local function dash()
     local LookVector = Camera.CFrame.LookVector * Vector3.new(1, 0, 1).Unit
     
     RootPart.Velocity = Vector3.new(0, 0, 0)
-    RootPart.CFrame = RootPart.CFrame + LookVector * 15 -- ЧЕЛ СИЛА ЭМ МЕТРЫ ДЭШ
+    RootPart.CFrame = RootPart.CFrame + LookVector * 15 -- Where number - value of meters when dashing
     
     for i = 1, 10 do
         RootPart.CFrame = RootPart.CFrame + LookVector * 0.1
@@ -95,12 +94,12 @@ UIS.InputBegan:Connect(function(input, gameProcessed)
         dash()
     end
 end)
--- [FUNCTION] FOV Changer : V бинд
+-- [FUNCTION] FOV Changer : "V" bind
 local Player = game:GetService("Players").LocalPlayer
 local Camera = workspace.CurrentCamera
 local RunService = game:GetService("RunService")
 
-local DesiredFOV = 200
+local DesiredFOV = 200 -- Your FOV value
 
 if Camera then
     Camera.FieldOfView = DesiredFOV
@@ -111,6 +110,13 @@ RunService.RenderStepped:Connect(function()
         Camera.FieldOfView = DesiredFOV
     end
 end)
+
+-- [FUNCTION] SpeedHack : "Q" bind
+-- soon...
+
+
+
+
 
 -- ORIGINAL MADED BY:
 -- [DeadByRoblox Destroyer, WATCH OUT BRO] Sanyog Saken Kok
