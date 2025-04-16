@@ -1,4 +1,6 @@
 # Anal Destroyer
+Wanna troll someone?
+Wanna 100% winrate?
 DeadByRoblox Destroyed by this script!
 
 
