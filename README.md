@@ -27,6 +27,8 @@ Like: Dash with 500 meters
 
 *FOV* - increases field of view to 200 *(you can change this parameter)*
 
+You can delete it in *.lua file* if you wish
+
 # CREDITS
 *SanyogSakenKok* && *GlebASS*
 **version:** 1.1.0
