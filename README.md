@@ -25,6 +25,12 @@ Base Strength: 35
 
 ![0416(1)](https://github.com/user-attachments/assets/787e5a55-717f-4114-ae73-0d10f3cf5fbe)
 
+[Q] - SpeedHack *(legit/rage function)*
+Base Value: 18
+
+- If you will set value bigger than 20, it will be **Rage**
+- Recommended value is 18 - 19 (+- killer's speed)
+- For it's work you need Press Q and use any emotion(Press 1 or 2)
 
 All of these functions can be edited by You
 
