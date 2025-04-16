@@ -11,6 +11,7 @@ Base Strength: 35
 
 # AUTO INJECTED FUNCTIONS
 *ESP* - allows to see all players on the map
+
 *FOV* - increases field of view to 200 *(you can change this parameter)*
 
 # CREDITS
