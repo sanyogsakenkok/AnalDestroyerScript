@@ -11,10 +11,11 @@ If something is works wrong ask me
 # FUNCTIONS
 [F] - Dash *(most powerful function & rage function)*
 Base Distance: 15 meters
-![0416](https://github.com/user-attachments/assets/1fe39ef6-4edd-4d0d-9980-4268312eb39b)
 
 - With **Dash** you can sabotage hooks and go away from hook so it will be broken.
 - You can repair gens and go away too
+
+![0416](https://github.com/user-attachments/assets/1fe39ef6-4edd-4d0d-9980-4268312eb39b)
 
 [T] - Jump *(funny function & rage function)*
 Base Strength: 35
