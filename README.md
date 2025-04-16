@@ -68,6 +68,9 @@ You can delete it in *.lua file* if you wish
 *SanyogSakenKok* && *GlebASS*
 **version:** 1.1.0
 
+**Full Showcase of Script:**
+*here will be link!*
+
 --
 Upcoming functions:
 - Speedhack *(legit version)*
