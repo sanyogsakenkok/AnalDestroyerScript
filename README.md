@@ -34,6 +34,8 @@ Like: Dash with 500 meters
 You can delete it in *.lua file* if you wish
 
 # CREDITS
+[DEADBYROBLOXDESTROYERS GANG]
+
 *SanyogSakenKok* && *GlebASS*
 **version:** 1.1.0
 
