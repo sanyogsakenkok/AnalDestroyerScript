@@ -30,11 +30,24 @@ local Player = game:GetService("Players").LocalPlayer
 local Camera = workspace.CurrentCamera
 local RunService = game:GetService("RunService")
 
-local DesiredFOV = 200 -- Your FOV value
+local MaxGameFOV = 120
+local DesiredFOV = 200 -- your fov value
+local LastAppliedFOV = Camera.FieldOfView
 
-if Camera then
-    Camera.FieldOfView = DesiredFOV
+
+local function ApplyCustomFOV()
+    if not Camera then return end
+    
+    if Camera.FieldOfView <= MaxGameFOV then
+        Camera.FieldOfView = DesiredFOV
+        LastAppliedFOV = DesiredFOV
+    elseif Camera.FieldOfView < DesiredFOV then
+        Camera.FieldOfView = DesiredFOV
+    end
 end
+ApplyCustomFOV()
+RunService.RenderStepped:Connect(ApplyCustomFOV)
+Camera:GetPropertyChangedSignal("FieldOfView"):Connect(ApplyCustomFOV)
 
 -- [FUNCTION] ESP
 local Players = game:GetService("Players")
