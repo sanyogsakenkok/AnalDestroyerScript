@@ -12,8 +12,8 @@ If something is works wrong ask me
 [F] - Dash *(most powerful, rage function)*
 Base Distance: 15 meters
 
-- With **Dash** you can sabotage hooks and go away from hook so it will be broken
-- You can repair gens and go away too
+- With **Dash** you will be pushed forward on 15 meters
+- With **Dash** you can sabotage hooks and go away from hook so it will be broken, also with gens too
 
 ***Dash Showcase:***
 
@@ -22,8 +22,8 @@ Base Distance: 15 meters
 [T] - Jump *(funny, rage function)*
 Base Strength: 35
 
-- With **Jump** you can also infinite jumping and jump on objects
-- Can't Jumping while doing something
+- Just jump in game!
+- Also you can jump on objects, jump while healing!
 
 ***Jump Showcase:***
 
