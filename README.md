@@ -17,7 +17,7 @@ Base Distance: 15 meters
 
 ***Dash Showcase:***
 
-![0416](https://github.com/user-attachments/assets/1fe39ef6-4edd-4d0d-9980-4268312eb39b)
+![dash](https://github.com/user-attachments/assets/2449e903-6817-41ed-b417-576abb1da5f1)
 
 [T] - Jump *(funny, rage function)*
 Base Strength: 35
@@ -27,7 +27,7 @@ Base Strength: 35
 
 ***Jump Showcase:***
 
-![0416(1)](https://github.com/user-attachments/assets/787e5a55-717f-4114-ae73-0d10f3cf5fbe)
+![jump](https://github.com/user-attachments/assets/815cb43b-6a51-47b7-9c93-0e734b95c2d9)
 
 [Q] - SpeedHack *(legit/rage function)*
 Base Value: 18
@@ -38,8 +38,7 @@ Base Value: 18
 
 ***SpeedHack Showcase:***
 
-![0416(6)](https://github.com/user-attachments/assets/fc7d0293-eb93-4fe6-8bae-900f87e035e0)
-
+![speedhack](https://github.com/user-attachments/assets/6201f88f-2498-4c0f-b124-0174bc194bbf)
 
 # AUTO INJECTED FUNCTIONS
 *GUI* - it shows all functions and binds(check right top)
@@ -54,7 +53,7 @@ You can delete it in *.lua file* if you wish
 
 ***Inject Showcase:***
 
-![0416(5)](https://github.com/user-attachments/assets/a39b413f-02e8-449f-b218-d94ec69cf9ab)
+![inject](https://github.com/user-attachments/assets/a73d4861-2f0d-42c8-bf3a-f7d581986716)
 
 
 # CREDITS
