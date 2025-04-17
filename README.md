@@ -49,8 +49,6 @@ Base Value: 18
 
 *FOV* - increases field of view to 200 *(you can change this parameter)* | *(safe function)*
 
-You can delete it in *.lua file* if you wish
-
 ***Inject Showcase:***
 
 ![inject](https://github.com/user-attachments/assets/a73d4861-2f0d-42c8-bf3a-f7d581986716)
