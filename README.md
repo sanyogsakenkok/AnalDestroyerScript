@@ -57,7 +57,7 @@ Base Value: 20
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 1.2.2
+**version:** 1.3.0
 
 **Full Showcase of Script:**
 [*CLICK!*](https://www.youtube.com/watch?v=ZgmwMnn60zc)
