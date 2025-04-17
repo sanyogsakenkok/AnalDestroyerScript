@@ -1,4 +1,4 @@
-# An4lD3stroyer for DeadByRoblox(roblox place)
+# An4l D3stroyer for DeadByRoblox(roblox place)
 Wanna troll someone?
 Wanna 100% winrate?
 DeadByRoblox Destroyed by this script!
