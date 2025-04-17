@@ -25,7 +25,6 @@ task.delay(5, function()
     gui:Destroy()
 end)
 
-
 -- [FUNCTION] FOV Changer
 local Player = game:GetService("Players").LocalPlayer
 local Camera = workspace.CurrentCamera
@@ -37,11 +36,6 @@ if Camera then
     Camera.FieldOfView = DesiredFOV
 end
 
-RunService.RenderStepped:Connect(function()
-    if Camera and Camera.FieldOfView ~= DesiredFOV then
-        Camera.FieldOfView = DesiredFOV
-    end
-end)
 -- [FUNCTION] ESP
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
