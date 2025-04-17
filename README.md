@@ -9,7 +9,7 @@ If something is works wrong ask me
 
 
 # FUNCTIONS
-[F] - Dash *(most powerful, rage function)*
+[F] - Dash *(strongest, rage function)*
 Base Distance: 15 meters
 
 - With **Dash** you will be pushed forward on 15 meters
@@ -33,7 +33,7 @@ Base Strength: 35
 Base Value: 18
 
 - If you will set value bigger than 20, it will be **Rage**
-- Recommended value is 18 - 19 (+- killer's speed)
+- Recommended value is 18 - 20 (+- killer's speed)
 - For it's work you need Press Q and use any emotion(Press 1 or 2)
 
 ***SpeedHack Showcase:***
@@ -41,14 +41,9 @@ Base Value: 18
 ![0416(6)](https://github.com/user-attachments/assets/fc7d0293-eb93-4fe6-8bae-900f87e035e0)
 
 
-<ins>NOTE:</ins>
-
-All of these functions can be edited by You
-
-Like: Dash with 500 meters
-
-
 # AUTO INJECTED FUNCTIONS
+*GUI* - it shows all functions and binds(check right top)
+
 *Explosing Sound & Notifier* - if you heard sound and saw notify "Injected Successfully" then all is OK
 
 *ESP* - allows to see all players on the map | *(safe function)*
