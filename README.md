@@ -60,7 +60,7 @@ Base Value: 20
 **version:** 1.3.0
 
 **Full Showcase of Script:**
-[*CLICK!*](https://www.youtube.com/watch?v=ZgmwMnn60zc)
+[*CLICK*](https://www.youtube.com/watch?v=ueZQxLJk620)
 
 ## UPCOMING FUNCTIONS
 - No ideas right now 😢
