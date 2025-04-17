@@ -58,10 +58,10 @@ You can delete it in *.lua file* if you wish
 
 
 # CREDITS
-[DEADBYROBLOXDESTROYERS GANG]
+[DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 1.1.0
+**version:** 1.2.2
 
 **Full Showcase of Script:**
 [*CLICK!*](https://www.youtube.com/watch?v=ZgmwMnn60zc)
