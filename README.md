@@ -12,7 +12,7 @@ If something is works wrong ask me
 [F] - Dash *(strongest, rage function)*
 Base Distance: 15 meters
 
-- With **Dash** you will be pushed forward on 15 meters
+- While using **Dash** you will be pushed forward on 15 meters
 - With **Dash** you can sabotage hooks and go away from hook so it will be broken, also with gens too
 
 ***Dash Showcase:***
