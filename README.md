@@ -22,18 +22,17 @@ Base Distance: 15 meters
 [T] - Jump *(funny, rage function)*
 Base Strength: 35
 
-- Just jump in game!
-- Also you can jump on objects, jump while healing!
+- Just jump in game
+- Also you can jump on objects, jump while healing, infinite jump
 
 ***Jump Showcase:***
 
 ![jump](https://github.com/user-attachments/assets/815cb43b-6a51-47b7-9c93-0e734b95c2d9)
 
 [Q] - SpeedHack *(legit/rage function)*
-Base Value: 18
+Base Value: 20
 
-- If you will set value bigger than 20, it will be **Rage**
-- Recommended value is 18 - 20 (+- killer's speed)
+- **Speedhack** increases your speed to 20 and you will be faster than killer
 - For it's work you need Press Q and use any emotion(Press 1 or 2)
 
 ***SpeedHack Showcase:***
@@ -47,7 +46,7 @@ Base Value: 18
 
 *ESP* - allows to see all players on the map | *(safe function)*
 
-*FOV* - increases field of view to 200 *(you can change this parameter)* | *(safe function)*
+*FOV* - increases field of view | *(safe function)*
 
 ***Inject Showcase:***
 
@@ -65,7 +64,3 @@ Base Value: 18
 
 ## UPCOMING FUNCTIONS
 - No ideas right now 😢
-
-These functions MAYBE will be added:
-- sabotage hooks everywhere
-- infinite items & perks usage
