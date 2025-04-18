@@ -65,3 +65,6 @@ Base Value: 20
 ## UPCOMING FUNCTIONS
 - ESP(Survivors,Killers,Pallets,Windows,Chests,Lockers,Hooks,Exit Gates,Hatch) modify GUI: you can ON/OFF something in this list
 - Risk Functions(Dash, Jump): ON/OFF
+- FOV toggle
+- Dash Range Changer(min 5, max 25)
+- Speedhack Value Changer(min 16, max 30)
