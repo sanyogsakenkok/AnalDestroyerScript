@@ -44,7 +44,7 @@ Base Value: 20
 
 *Explosing Sound & Notifier* - if you heard sound and saw notify "Injected Successfully" then all is OK
 
-*ESP* - allows to see all players on the map | *(safe function)*
+*ESP* - allows to see all players and selected objects on the map | *(safe function)*
 
 *FOV* - increases field of view | *(safe function)*
 
