@@ -63,4 +63,5 @@ Base Value: 20
 [*CLICK*](https://www.youtube.com/watch?v=ueZQxLJk620)
 
 ## UPCOMING FUNCTIONS
-- No ideas right now 😢
+- ESP(Survivors,Killers,Pallets,Windows,Chests,Lockers,Hooks,Exit Gates,Hatch) modify GUI: you can ON/OFF something in this list
+- Risk Functions(Dash, Jump): ON/OFF
