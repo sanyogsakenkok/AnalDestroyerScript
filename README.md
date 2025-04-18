@@ -8,6 +8,10 @@ Also used with JJSploit but you can use something else
 If something is works wrong ask me
 
 
+Also you can edit any value in configure
+
+Like: Set Dash to 1000, Set Speedhack from Legit to UltraRage!
+
 # FUNCTIONS
 [F] - Dash *(strongest, rage function)*
 Base Distance: 15 meters
