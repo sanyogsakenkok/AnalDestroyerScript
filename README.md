@@ -7,7 +7,6 @@ Also used with JJSploit but you can use something else
 
 If something is works wrong ask me
 
-
 Also you can edit any value in configure
 
 Like: Set Dash to 1000, Set Speedhack from Legit to UltraRage!
@@ -61,7 +60,7 @@ Base Value: 20
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 1.3.0
+**version:** 1.4.5
 
 **Full Showcase of Script:**
 [*CLICK*](https://www.youtube.com/watch?v=ueZQxLJk620)
