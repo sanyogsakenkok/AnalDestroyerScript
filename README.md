@@ -13,7 +13,7 @@ Like: Set Dash to 1000, Set Speedhack from Legit to UltraRage!
 
 # FUNCTIONS
 [F] - Dash *(strongest, rage function)*
-Base Distance: 15 meters
+Base Distance: 15 meters(you can change this parameter)
 
 - While using **Dash** you'll be pushed forward on 15 meters relative to the camera (where you're looking)
 - With **Dash** you can sabotage hooks and go away from hook so it will be broken, also with gens too
@@ -33,7 +33,7 @@ Base Strength: 35
 ![jump](https://github.com/user-attachments/assets/815cb43b-6a51-47b7-9c93-0e734b95c2d9)
 
 [Q] - SpeedHack *(legit/rage function)*
-Base Value: 20
+Base Value: 20(you can change this parameter)
 
 - **Speedhack** increases your speed to 20 and you will be faster than killer
 - For it's work you need Press Q and use any emotion(Press 1 or 2)
@@ -43,13 +43,19 @@ Base Value: 20
 ![speedhack](https://github.com/user-attachments/assets/6201f88f-2498-4c0f-b124-0174bc194bbf)
 
 # AUTO INJECTED FUNCTIONS
-*GUI* - it shows all functions and binds(check right top)
+*Configure's GUI* - it shows at start to set up script
+
+*Keybinds* - it shows all functions and binds(check right top)
 
 *Explosing Sound & Notifier* - if you heard sound and saw notify "Injected Successfully" then all is OK
 
 *ESP* - allows to see all players and selected objects on the map | *(safe function)*
 
+You can Enable some Objects ESP
+
 *FOV* - increases field of view | *(safe function)*
+
+You can Change FOV value
 
 ***Inject Showcase:***
 
@@ -60,14 +66,10 @@ Base Value: 20
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 1.4.5
+**version:** 1.4.1
 
 **Full Showcase of Script:**
 [*CLICK*](https://www.youtube.com/watch?v=ueZQxLJk620)
 
 ## UPCOMING FUNCTIONS
-- ESP(Survivors,Killers,Pallets,Windows,Chests,Lockers,Hooks,Exit Gates,Hatch) modify GUI: you can ON/OFF something in this list
-- Risk Functions(Dash, Jump): ON/OFF
-- FOV toggle
-- Dash Range Changer(min 5, max 25)
-- Speedhack Value Changer(min 16, max 30)
+- No ideas right now 😢
