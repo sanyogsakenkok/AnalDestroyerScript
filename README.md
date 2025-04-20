@@ -9,7 +9,7 @@ If something is works wrong ask me
 
 Also you can edit any value in configure
 
-Like: Set Dash to 1000, Set Speedhack from Legit to UltraRage!
+Like: Set Dash to Any Value, Set Speedhack to Any Value(but dont more than 25, you will be teleporting back!)
 
 # FUNCTIONS
 [F] - Legit Dash *(legit/rage function)*
