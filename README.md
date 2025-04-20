@@ -72,4 +72,4 @@ You can Change FOV value
 [*CLICK*](https://www.youtube.com/watch?v=ueZQxLJk620)
 
 ## UPCOMING FUNCTIONS
-- No ideas right now 😢
+- Will be added "G" bind - its OLD DASH function of this script for More Rage Gameplay!
