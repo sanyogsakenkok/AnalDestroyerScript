@@ -12,13 +12,13 @@ Also you can edit any value in configure
 Like: Set Dash to 1000, Set Speedhack from Legit to UltraRage!
 
 # FUNCTIONS
-[F] - Dash *(strongest, rage function)*
+[F] - Legit Dash *(legit/rage function)*
 Base Distance: 15 meters(you can change this parameter)
 
-- While using **Dash** you'll be pushed forward on 15 meters relative to the camera (where you're looking)
+- While using **Dash** you'll be smooth pushed forward on 15 meters relative to the your player with Dodge Perk animation
 - With **Dash** you can sabotage hooks and go away from hook so it will be broken, also with gens too
 
-***Dash Showcase:***
+***Legit Dash Showcase:***
 
 ![dash](https://github.com/user-attachments/assets/2449e903-6817-41ed-b417-576abb1da5f1)
 
@@ -66,7 +66,7 @@ You can Change FOV value
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 1.4.1
+**version:** 1.4.5
 
 **Full Showcase of Script:**
 [*CLICK*](https://www.youtube.com/watch?v=ueZQxLJk620)
