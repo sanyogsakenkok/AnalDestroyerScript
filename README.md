@@ -20,7 +20,7 @@ Base Distance: 15 meters(you can change this parameter)
 
 ***Legit Dash Showcase:***
 
-![dash](https://github.com/user-attachments/assets/2449e903-6817-41ed-b417-576abb1da5f1)
+![0420(1)](https://github.com/user-attachments/assets/e5109f19-0f22-4d16-b718-32e143b97c96)
 
 [T] - Jump *(funny, rage function)*
 Base Strength: 35
