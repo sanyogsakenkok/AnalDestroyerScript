@@ -33,10 +33,10 @@ Base Strength: 35
 ![jump](https://github.com/user-attachments/assets/815cb43b-6a51-47b7-9c93-0e734b95c2d9)
 
 [Q] - SpeedHack *(legit/rage function)*
-Base Value: 20(you can change this parameter)
+Base Value: 1.5(you can change this parameter)
 
-- **Speedhack** increases your speed to 20 and you will be faster than killer
-- For it's work you need Press Q and use any emotion(Press 1 or 2)
+- **Speedhack** multiplies your speed to value setted by you
+- For it's work you need Hold Q and run/walk/crouch
 
 ***SpeedHack Showcase:***
 
@@ -57,10 +57,6 @@ You can Enable some Objects ESP
 
 You can Change FOV value
 
-***Inject Showcase:***
-
-![inject](https://github.com/user-attachments/assets/a73d4861-2f0d-42c8-bf3a-f7d581986716)
-
 
 # CREDITS
 [DeadByRobloxDestroyers GANG]
@@ -71,5 +67,27 @@ You can Change FOV value
 **Full Showcase of Script:**
 [*CLICK*](https://www.youtube.com/watch?v=ueZQxLJk620)
 
+
+## Builds
+( 1 )
+**No Die build**
+
+*Just a Scratch* - allows to recover from downed state everytime
+
+*Dodge* - OG DeadHard(dead by daylight). Just dodging killer's attack and you still alive
+
+*Salvation* - allows to escape off of first hook if you unhooked any survivor
+
+*Medical Experience* - increases your healing efficiency and speed
+
+[Realization]
+- getting killed, spamming *Dash* and recovering
+- healing other survivors
+- sabotaging hooks with toolbox
+- if u get cooked and u saved any survivor just escape from hook
+- 100% winrate(played many matches with this build and everytime escaped with all survivors)
+
+
 ## UPCOMING FUNCTIONS
-- Will be added "G" bind - its OLD DASH function of this script for More Rage Gameplay!
+- Trying to do infinite items, take any item in game(flashlight, toolbox and more), sabotage all hooks on distance(killer cant hang anyone if hook is sabotaging)
+- Looking for do Self Heal without this Perk and Self Heal if you are lie down(then, you dont need any build to play, if it will be realised)
