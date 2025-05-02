@@ -66,7 +66,7 @@ You can Change FOV value
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 1.4.5
+**version:** 1.4.8
 
 **Full Showcase of Script:**
 [*CLICK*](https://www.youtube.com/watch?v=ueZQxLJk620)
