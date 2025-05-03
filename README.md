@@ -1,15 +1,12 @@
 # An4l D3stroyer for DeadByRoblox(roblox place)
-Wanna troll someone?
-Wanna 100% winrate?
-DeadByRoblox Destroyed by this script!
+This Script allows to Dominate in this Place!
 
-Also used with JJSploit but you can use something else
+*If you will play like me(fully rage, showing everyone your hacks) so you will get banned!*
+*Using this script, you understanding thats you can get banned, creators(glebass & sanyoksakenkok) are not responsable for any bans by using this Script!*
 
-If something is works wrong ask me
+![Снимок экрана 2025-05-03 002230](https://github.com/user-attachments/assets/2818ef36-f6b5-4aef-bbb3-16bc5d71084c)
 
-Also you can edit any value in configure
-
-Like: Set Dash to Any Value, Set Speedhack to Any Value(but dont more than 25, you will be teleporting back!)
+*Be careful while using Rage Functions! They're not signed like that for nothing.*
 
 # FUNCTIONS
 [F] - Legit Dash *(legit/rage function)*
