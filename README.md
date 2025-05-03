@@ -52,6 +52,12 @@ Base Value: 1.5(you can change this parameter)
 ![0503(2)](https://github.com/user-attachments/assets/28c70432-70a8-4373-91eb-76bf52b46287)
 
 
+[Y] - Sabotage Hook *(BETA, legit function)*
+Base Distance to Near Hook: 20 meters
+
+- Just stay near of the Hook and press "Y", so killer cant hang anyone on this hook
+- **(!) This function in BETA Testing Version, so it will be works wrong.**
+
 # AUTO INJECTED FUNCTIONS
 *Configure's GUI* - it shows at start to set up script
 
@@ -61,11 +67,11 @@ Base Value: 1.5(you can change this parameter)
 
 *Explosing Sound & Notifier* - if you heard sound and saw notify "Injected Successfully" then all is OK
 
-*ESP* - allows to see all players and selected objects on the map | *(safe function)*
+*ESP* - allows to see all players and selected objects on the map
 
 You can Enable/Disable ESP
 
-*FOV* - increases field of view | *(safe function)*
+*FOV* - increases field of view
 
 You can Change FOV value(press "PgUp" to increase, press "PgDown" to decrease)
 
