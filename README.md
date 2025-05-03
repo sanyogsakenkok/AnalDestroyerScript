@@ -56,6 +56,13 @@ Base Distance to Near Hook: 20 meters
 - Just stay near of the Hook and press "Y", so killer cant hang anyone on this hook
 - **(!) This function in BETA Testing Version, so it will be works wrong.**
 
+
+[Killer Revealer] - New Script
+
+- Allows to Check player's Killer in Lobby
+- Write him username in Input and press "REVEAL"
+- (may be added perks reveal!)
+
 # AUTO INJECTED FUNCTIONS
 *Configure's GUI* - it shows at start to set up script
 
