@@ -88,7 +88,9 @@ You can Change FOV value(press "PgUp" to increase, press "PgDown" to decrease)
 **version:** 1.4.9
 
 **Full Showcase of Script:**
-[*CLICK(old ver)*](https://www.youtube.com/watch?v=ueZQxLJk620)
+[*CLICK(v1.4.9)*](https://youtu.be/p2OvGk8UbEk)
+[*CLICK(v1.4.1)*](https://youtu.be/Q8BuVO4quzk)
+[*CLICK(v1.2.2)*](https://www.youtube.com/watch?v=ueZQxLJk620)
 
 
 ## Builds
