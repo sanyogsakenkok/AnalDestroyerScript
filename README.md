@@ -62,7 +62,7 @@ Base Distance to Near Hook: 20 meters
 
 *Configuration Keybinds* - allows to change some parameters of function(press "Delete")
 
-*Explosing Sound & Notifier* - if you heard sound and saw notify "Injected Successfully" then all is OK
+*Explosing Sound & Notifier* - if you heard sound and saw notify then all is OK
 
 *ESP* - allows to see all players and selected objects on the map
 
