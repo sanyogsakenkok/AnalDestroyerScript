@@ -39,11 +39,17 @@ Base Strength: 35
 - Also you can jump on objects, jump while healing, infinite jump
 
 
+![0503(3)](https://github.com/user-attachments/assets/9e8737d7-68df-479b-99a4-f42ff32fccd9)
+
+
 [Q] - SpeedHack *(legit/rage function)*
 Base Value: 1.5(you can change this parameter)
 
 - **Speedhack** multiplies your speed to value setted by you
 - For it's work you need Hold Q and run/walk/crouch
+
+
+![0503(2)](https://github.com/user-attachments/assets/28c70432-70a8-4373-91eb-76bf52b46287)
 
 
 # AUTO INJECTED FUNCTIONS
