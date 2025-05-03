@@ -1,5 +1,6 @@
 # An4l D3stroyer for DeadByRoblox(roblox place)
 This Script allows to Dominate in this Place!
+«Destroy DBR or Make it Fun!»
 
 *If you will play like me(fully rage, showing everyone your hacks) so you will get banned!*
 *Using this script, you understanding thats you can get banned, creators(glebass & sanyoksakenkok) are not responsable for any bans by using this Script!*
