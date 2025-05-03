@@ -112,5 +112,5 @@ You can Change FOV value(press "PgUp" to increase, press "PgDown" to decrease)
 
 
 ## UPCOMING FUNCTIONS
-- Trying to do infinite items, take any item in game(flashlight, toolbox and more), sabotage all hooks on distance(killer cant hang anyone if hook is sabotaging)
-- Looking for do Self Heal without this Perk and Self Heal if you are lie down(then, you dont need any build to play, if it will be realised)
+- Fixing bug with Custom Animations, Custom Animation can be setted by you(new feature)
+- Fixing Sabotage Hooks Function
