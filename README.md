@@ -18,9 +18,6 @@ Base Distance: 15 meters(you can change this parameter)
 - While using **Dash** you'll be smooth pushed forward on 15 meters relative to the your player with Dodge Perk animation
 - With **Dash** you can sabotage hooks and go away from hook so it will be broken, also with gens too
 
-***Legit Dash Showcase:***
-
-![0420(1)](https://github.com/user-attachments/assets/e5109f19-0f22-4d16-b718-32e143b97c96)
 
 [T] - Jump *(funny, rage function)*
 Base Strength: 35
@@ -28,9 +25,6 @@ Base Strength: 35
 - Just jump in game
 - Also you can jump on objects, jump while healing, infinite jump
 
-***Jump Showcase:***
-
-![jump](https://github.com/user-attachments/assets/815cb43b-6a51-47b7-9c93-0e734b95c2d9)
 
 [Q] - SpeedHack *(legit/rage function)*
 Base Value: 1.5(you can change this parameter)
@@ -38,9 +32,6 @@ Base Value: 1.5(you can change this parameter)
 - **Speedhack** multiplies your speed to value setted by you
 - For it's work you need Hold Q and run/walk/crouch
 
-***SpeedHack Showcase:***
-
-![speedhack](https://github.com/user-attachments/assets/6201f88f-2498-4c0f-b124-0174bc194bbf)
 
 # AUTO INJECTED FUNCTIONS
 *Configure's GUI* - it shows at start to set up script
@@ -62,10 +53,10 @@ You can Change FOV value
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 1.4.8
+**version:** 1.4.9
 
 **Full Showcase of Script:**
-[*CLICK*](https://www.youtube.com/watch?v=ueZQxLJk620)
+[*CLICK(old ver)*](https://www.youtube.com/watch?v=ueZQxLJk620)
 
 
 ## Builds
