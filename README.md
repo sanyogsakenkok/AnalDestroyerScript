@@ -73,6 +73,8 @@ Base Distance to Near Hook: 20 meters
 # AUTO INJECTED FUNCTIONS
 *Configure's GUI* - it shows at start to set up script
 
+*RedStain Color* - changing killer's stain color from red to your any
+
 *Keybinds* - it shows all functions and binds(press "Insert")
 
 *Configuration Keybinds* - allows to change some parameters of function(press "Delete")
