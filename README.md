@@ -50,6 +50,13 @@ Base Value: 1.5(you can change this parameter)
 ![0503(2)](https://github.com/user-attachments/assets/28c70432-70a8-4373-91eb-76bf52b46287)
 
 
+[B] - Bully Dance *(fun)*
+Animation Name: "Snake It"(soon you can change it to other animations in list)
+
+- allows to run/walk/crouch/doing things with this animation
+- you can use this animation for free(without 100k bloodpoints payment)
+
+
 [Y] - Sabotage Hook *(BETA, legit function)*
 Base Distance to Near Hook: 20 meters
 
