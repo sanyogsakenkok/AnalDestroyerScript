@@ -41,9 +41,9 @@ Base Strength: 35
 
 
 [Q] - SpeedHack *(legit/rage function)*
-Base Value: 1.5(you can change this parameter)
+Base Value: 17.5(you can change this parameter)
 
-- **Speedhack** multiplies your speed to value setted by you
+- **Speedhack** smoothly multiplies your speed to value setted by you
 - For it's work you need Hold Q and run/walk/crouch
 
 
@@ -57,7 +57,7 @@ Animation Name: "Snake It"(soon you can change it to other animations in list)
 - you can use this animation for free(without 100k bloodpoints payment)
 
 
-[Y] - Sabotage Hook *(BETA, legit function)*
+[Y] - Sabotage Hook *(Not Working Anymore)*
 Base Distance to Near Hook: 20 meters
 
 - Just stay near of the Hook and press "Y", so killer cant hang anyone on this hook
@@ -94,7 +94,7 @@ You can Change FOV value(press "PgUp" to increase, press "PgDown" to decrease)
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 1.4.9
+**version:** 1.5.0
 
 **Full Showcase of Script:**
 
