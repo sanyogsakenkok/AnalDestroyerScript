@@ -50,6 +50,18 @@ Base Value: 17.5(you can change this parameter)
 ![0503(2)](https://github.com/user-attachments/assets/28c70432-70a8-4373-91eb-76bf52b46287)
 
 
+[Up Arrow] - Teleport to Killer *(rage function)*
+
+- Allows teleporting to killer
+- You can repair generator for abuse UpArrow + DownArrow and you will push killer into sky
+
+
+[Down Arrow] - Teleport to Hatch *(rage function)*
+
+- Allows teleporting to Hatch and Insta Escape
+- You can repair generator for abuse UpArrow + DownArrow and you will push killer into sky
+
+
 [B] - Bully Dance *(fun)*
 Animation Name: "Snake It"(soon you can change it to other animations in list)
 
@@ -140,5 +152,4 @@ You can Change FOV value(press "PgUp" to increase, press "PgDown" to decrease)
 
 
 ## UPCOMING FUNCTIONS
-- Fixing bug with Custom Animations, Custom Animation can be setted by you(new feature)
-- Fixing Sabotage Hooks Function
+- Any Styles of Teleporting (left arrow, right arrow remaining)
