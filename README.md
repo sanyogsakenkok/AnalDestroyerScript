@@ -42,7 +42,7 @@ Base Strength: 35
 ![0503(3)](https://github.com/user-attachments/assets/9e8737d7-68df-479b-99a4-f42ff32fccd9)
 
 
-[Q] - SpeedHack *(legit/rage function)*
+[Q] - SpeedHack *(legit/rage function, **sometimes bannable**)*
 Base Value: 18(you can change this parameter)
 
 - **Speedhack** smoothly multiplies your speed to value setted by you
@@ -53,29 +53,41 @@ Base Value: 18(you can change this parameter)
 ![0503(2)](https://github.com/user-attachments/assets/28c70432-70a8-4373-91eb-76bf52b46287)
 
 
-[Up Arrow] - Teleport to Killer *(rage function)*
+[Up Arrow] - Teleport to Killer *(rage function, **100% ban**)*
 
 - Allows teleporting to killer
 - You can repair generator for abuse UpArrow + DownArrow and you will push killer into sky
 
 
-[Down Arrow] - Teleport to Hatch *(rage function)*
+[Down Arrow] - Teleport to Hatch *(rage function, **100% ban**)*
 
 - Allows teleporting to Hatch and Insta Escape
 - You can repair generator for abuse UpArrow + DownArrow and you will push killer into sky
 
 
-[J] - Teleport to ExitGate *(rage function)*
+[J] - Teleport to ExitGate *(rage function, **100% ban**)*
 
 - Easily escape by this
 
 
-[U] - Teleport to Survivors *(rage function)*
+[U] - Teleport to Survivors *(rage function, **100% ban**)*
 
 - Allows teleporting to Survivors
 
 
-[Z] - Health State Changer *(fun/rage function)*
+[V] - NoClip *(rage function, **sometimes bannable**)*
+
+- You can walk though the walls!
+- Useful in chases and you can get throwed into sky by this walls(not all)
+
+
+[X] - Auto Moonwalk *(legit function)*
+
+- Toggle moonwalk by pressing the key to Moonwalk backward or forward
+- Looks nice idk
+
+
+[Z] - Health State Changer *(fun/rage function, **100% ban**)*
 
 - **Warning:** this only affects visuals. The server still sees you as injured/downed, so killers can still grab you
 - Change your **HealthState** to mess with survivors/killers. If downed, forcing a "healthy" state can make the killer DC in confusion when you suddenly run away.
@@ -89,11 +101,11 @@ Animation Name: "Snake It"(soon you can change it to other animations in list)
 - you can use this animation for free(without 100k bloodpoints payment)
 
 
-[Y] - Sabotage Hook *(Not Working Anymore)*
-Base Distance to Near Hook: 20 meters
+~~[Y] - Sabotage Hook *(Not Working Anymore)*~~
+~~Base Distance to Near Hook: 20 meters~~
 
-- Just stay near of the Hook and press "Y", so killer cant hang anyone on this hook
-- **(!) This function in BETA Testing Version, so it will be works wrong.**
+~~- Just stay near of the Hook and press "Y", so killer cant hang anyone on this hook~~
+~~- **(!) This function in BETA Testing Version, so it will be works wrong.**~~
 
 
 [Killer Revealer] - New Script
@@ -126,7 +138,7 @@ You can Change FOV value(press "PgUp" to increase, press "PgDown" to decrease)
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 1.5.1
+**version:** 1.5.2
 
 **Full Showcase of Script:**
 
