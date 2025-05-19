@@ -87,7 +87,7 @@ Base Value: 18(you can change this parameter)
 - Looks nice idk
 
 
-[Z] - Health State Changer *(fun/rage function, **100% ban**)*
+[Z] - Health State Changer *(fun/rage function, **sometimes bannable**)*
 
 - **Warning:** this only affects visuals. The server still sees you as injured/downed, so killers can still grab you
 - Change your **HealthState** to mess with survivors/killers. If downed, forcing a "healthy" state can make the killer DC in confusion when you suddenly run away.
