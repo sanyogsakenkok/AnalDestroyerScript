@@ -9,6 +9,8 @@ This Script allows to Dominate in this Place!
 
 *Be careful while using Rage Functions! They're not signed like that for nothing.*
 
+!!! **Important** Script may be detected because I got many bans... !!!
+
 # FUNCTIONS
 [F] - Legit Dash *(legit/rage function)*
 Base Distance: 15 meters(you can change this parameter)
