@@ -11,7 +11,7 @@ This Script allows to Dominate in this Place!
 
 # FUNCTIONS
 [F] - Legit Dash *(legit/rage function)*
-Base Distance: 20 meters(you can change this parameter)
+Base Distance: 15 meters(you can change this parameter)
 
 - While using **Dash** you'll be smooth pushed forward on 20 meters relative to the your player with Dodge Perk animation
 - With **Dash** you can sabotage hooks and go away from hook so it will be broken, also with gens too
@@ -21,7 +21,7 @@ Base Distance: 20 meters(you can change this parameter)
 
 
 [G] - Rage Dash *(rage function)*
-Base Distance: 20 meters(you can change this parameter)
+Base Distance: 15 meters(you can change this parameter)
 
 - This function allows to be pushed forward like teleporting relative to the your camera
 - Also very strongest function if you sabotaging hooks
@@ -41,10 +41,11 @@ Base Strength: 35
 
 
 [Q] - SpeedHack *(legit/rage function)*
-Base Value: 17.5(you can change this parameter)
+Base Value: 18(you can change this parameter)
 
 - **Speedhack** smoothly multiplies your speed to value setted by you
 - For it's work you need Hold Q and run/walk/crouch
+- **Feature:** if you are in "downed state" you will be faster in 3 times (speedhack_value * 3)
 
 
 ![0503(2)](https://github.com/user-attachments/assets/28c70432-70a8-4373-91eb-76bf52b46287)
@@ -70,6 +71,13 @@ Base Value: 17.5(you can change this parameter)
 [U] - Teleport to Survivors *(rage function)*
 
 - Allows teleporting to Survivors
+
+
+[Z] - Health State Changer *(fun/rage function)*
+
+- **Warning:** this only affects visuals. The server still sees you as injured/downed, so killers can still grab you
+- Change your **HealthState** to mess with survivors/killers. If downed, forcing a "healthy" state can make the killer DC in confusion when you suddenly run away.
+- After using a **Health State Changer** while injured/downed, you must manually switch back to the correct state (injured/downed) to allow healing or recovery actions.
 
 
 [B] - Bully Dance *(fun)*
@@ -116,7 +124,7 @@ You can Change FOV value(press "PgUp" to increase, press "PgDown" to decrease)
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 1.5.0
+**version:** 1.5.1
 
 **Full Showcase of Script:**
 
@@ -153,7 +161,6 @@ You can Change FOV value(press "PgUp" to increase, press "PgDown" to decrease)
 - Set **ESP Settings** in Pre-Start Configuration: ***Pallets,Windows,Traps(if it trapper),Players & Killer,Generators,Hatch,Exit Gate***, allows to see everything and chasing like a god without any speedhacks(*fully legit*)
 - In chase you already getting advantage(EPS, speedhack, hacked fast vaults); if killer going to hit you press **Dodge Perk**(not Legit Dash); Chase some time and press **Legit Dash** for increase distance but not in hit timing because killer easily give you a hit(*legit gameplay*)
 - In chase you can use **Rage Dash**/**Legit Dash** everytime killer getting near you, just do it(Legit Dash) or teleport(Rage Dash) into any construction(*rage gameplay*)
-- Use **Animations** to bait killers: Press "Z" to do "Fast Vault" animation and killer will think you're vaulting so you win a time(*legit gameplay*)
 - If you got killed and you in downed state just teleport somewhere and recover(with **Best Build** you recovering so fast, *rage gameplay*)
 - Important to safe someone from hook because it grants you ***Salvation Perk*** so you 100% escaping from first hook **OR** just nevermind about saving and get killed in the basement to also 100% escape from first hook(*legit gameplay*)
 - You can OFF all functions(dashes, speedhack, vaults) and just ON ESP, 100% legit gameplay
