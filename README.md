@@ -62,6 +62,16 @@ Base Value: 17.5(you can change this parameter)
 - You can repair generator for abuse UpArrow + DownArrow and you will push killer into sky
 
 
+[J] - Teleport to ExitGate *(rage function)*
+
+- Easily escape by this
+
+
+[U] - Teleport to Survivors *(rage function)*
+
+- Allows teleporting to Survivors
+
+
 [B] - Bully Dance *(fun)*
 Animation Name: "Snake It"(soon you can change it to other animations in list)
 
