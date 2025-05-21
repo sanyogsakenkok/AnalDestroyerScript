@@ -88,7 +88,7 @@ Base Value: 18(you can change this parameter)
 
 [H] - Stun Yourself *(fun/rage function, **sometimes bannable**)*
 
-- Just stun yourself with Killer animation(working on survivor&killer sides)
+- Just stun yourself with Killer animation
 
 
 [X] - Auto Moonwalk *(legit function)*
