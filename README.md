@@ -75,10 +75,20 @@ Base Value: 18(you can change this parameter)
 - Allows teleporting to Survivors
 
 
-[V] - NoClip *(rage function, **sometimes bannable**)*
+[Y] - Teleport to Secret Place *(rage function, **100% ban**)*
 
-- You can walk though the walls!
-- Useful in chases and you can get throwed into sky by this walls(not all)
+- You will teleported into unkown place
+- Just teleport to there for waiting endgame or smth else
+
+
+[V] - Fly *(rage function, **100% ban**)*
+
+- Just fly away from killer
+
+
+[H] - Stun Yourself *(fun/rage function, **sometimes bannable**)*
+
+- Just stun yourself with Killer animation(working on survivor&killer sides)
 
 
 [X] - Auto Moonwalk *(legit function)*
@@ -101,13 +111,6 @@ Animation Name: "Snake It"(soon you can change it to other animations in list)
 - you can use this animation for free(without 100k bloodpoints payment)
 
 
-~~[Y] - Sabotage Hook *(Not Working Anymore)*~~
-~~Base Distance to Near Hook: 20 meters~~
-
-~~- Just stay near of the Hook and press "Y", so killer cant hang anyone on this hook~~
-~~- **(!) This function in BETA Testing Version, so it will be works wrong.**~~
-
-
 [Killer Revealer] - New Script
 
 - Allows to Check player's Killer in Lobby
@@ -117,11 +120,11 @@ Animation Name: "Snake It"(soon you can change it to other animations in list)
 # AUTO INJECTED FUNCTIONS
 *Configure's GUI* - it shows at start to set up script
 
-*RedStain Color* - changing killer's stain color from red to your any
+*RedStain Color* - changing killer's stain color from red to your any(if you will set RGB "255" everywhere, it will be Rainbow!)
 
-*Keybinds* - it shows all functions and binds(press "Insert")
+*Rainbow Heart* - changing your Heart to rainbow, it isnt only red now
 
-*Configuration Keybinds* - allows to change some parameters of function(press "Delete")
+*Configuration Menu* - allows to change some parameters of function(press "Delete")
 
 *Explosing Sound & Notifier* - if you heard sound and saw notify then all is OK
 
@@ -138,7 +141,7 @@ You can Change FOV value(press "PgUp" to increase, press "PgDown" to decrease)
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 1.5.2
+**version:** 1.5.4
 
 **Full Showcase of Script:**
 
@@ -172,7 +175,7 @@ You can Change FOV value(press "PgUp" to increase, press "PgDown" to decrease)
 
 - Set **FastVault Speed**(press "Delete" to open Configuration) to 0.60, you will be faster at fast vaults(but not at pallets) and no one says about your fast vaults(*legit*)
 - Set **Speedhack**(press "Delete" to open Configuration or change it in pre-start configuration) to 2.0 and just hold Q sometime(*rage/legit*, guys saying GG after that :D)
-- Set **ESP Settings** in Pre-Start Configuration: ***Pallets,Windows,Traps(if it trapper),Players & Killer,Generators,Hatch,Exit Gate***, allows to see everything and chasing like a god without any speedhacks(*fully legit*)
+- Set **ESP Settings** in Pre-Start Configuration: ***Pallets,Windows,Players & Killer,Generators,Hatch,Exit Gate***, allows to see everything and chasing like a god without any speedhacks(*fully legit*)
 - In chase you already getting advantage(EPS, speedhack, hacked fast vaults); if killer going to hit you press **Dodge Perk**(not Legit Dash); Chase some time and press **Legit Dash** for increase distance but not in hit timing because killer easily give you a hit(*legit gameplay*)
 - In chase you can use **Rage Dash**/**Legit Dash** everytime killer getting near you, just do it(Legit Dash) or teleport(Rage Dash) into any construction(*rage gameplay*)
 - If you got killed and you in downed state just teleport somewhere and recover(with **Best Build** you recovering so fast, *rage gameplay*)
@@ -183,4 +186,4 @@ You can Change FOV value(press "PgUp" to increase, press "PgDown" to decrease)
 
 
 ## UPCOMING FUNCTIONS
-- Any Styles of Teleporting (left arrow, right arrow remaining)
+- Searching an extra features for our Script, no ideas rn
