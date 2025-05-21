@@ -47,7 +47,7 @@ Base Value: 18(you can change this parameter)
 
 - **Speedhack** smoothly multiplies your speed to value setted by you
 - For it's work you need Hold Q and run/walk/crouch
-- **Feature:** if you are in "downed state" you will be faster in 3 times (speedhack_value * 3)
+- **Feature:** if you are in "downed state" or you're crouching you will be faster
 
 
 ![0503(2)](https://github.com/user-attachments/assets/28c70432-70a8-4373-91eb-76bf52b46287)
