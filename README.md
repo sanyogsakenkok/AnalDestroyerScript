@@ -81,6 +81,19 @@ Base Value: 18(you can change this parameter)
 - Just teleport to there for waiting endgame or smth else
 
 
+[C] - Remote Generator Repair *(rage function, **100% ban**)*
+
+- Teleporting you to Generator and gives 5 seconds to start repairing. After you started repairing you will teleport back in your last position!
+- If in 5 seconds you isnt started repairing you anyway will back in your last position
+
+
+[N] - Remote Heal *(rage function, **100% ban**)*
+
+- You will teleported to Survivor and teleported in your last position
+- You need to Click Left Mouse to start Heal(do it fast)
+- To select Target Survivor open **"Function's Settings"** - **[Delete] bind** and select **"Target Username"**(click to change)
+
+
 [V] - Fly *(rage function, **100% ban**)*
 
 - Just fly away from killer
@@ -94,6 +107,7 @@ Base Value: 18(you can change this parameter)
 [X] - Auto Moonwalk *(legit function)*
 
 - Toggle moonwalk by pressing the key to Moonwalk backward or forward
+- To change direction of Moonwalk open **"Function's Settings"*** - **[Delete] bind** and write there type of Moonwalk: 1 - Backward, 2 - Forward
 - Looks nice idk
 
 
@@ -124,7 +138,7 @@ Animation Name: "Snake It"(soon you can change it to other animations in list)
 
 *Rainbow Heart* - changing your Heart to rainbow, it isnt only red now
 
-*Configuration Menu* - allows to change some parameters of function(press "Delete")
+*Function's Settings Menu* - allows to change some parameters of function(press "Delete")
 
 *Explosing Sound & Notifier* - if you heard sound and saw notify then all is OK
 
@@ -141,7 +155,7 @@ You can Change FOV value(press "PgUp" to increase, press "PgDown" to decrease)
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 1.5.4
+**version:** 1.5.7
 
 **Full Showcase of Script:**
 
