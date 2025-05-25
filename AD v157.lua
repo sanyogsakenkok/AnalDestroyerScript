@@ -5,3 +5,4 @@ return(function(...)local r={"\047\110\082\056\106\117\122\111\048\075\074\072\0
 
       -- Maded by SanyokSuckenCock & GlebASS pivo
       -- discord: @asdqwes32
+      -- ANAL DESTROYER SCRIPT, github.com
