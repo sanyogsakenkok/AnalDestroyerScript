@@ -92,7 +92,7 @@ Base Value: 18(you can change this parameter)
 - Types of Remote Interaction: Players(insta tp to selected target to do something), Exit Gates(insta tp to exit gate to open), Chests(insta tp to any closed chest to open)
 - For example: You will insta teleported to Survivor and teleported in your last position
 - You need to Click Left Mouse to start Heal or something else(do it fast)
-- To select Target Survivor open **"Function's Settings"** - **[Delete] bind** and select **"Target Username"**(click to change) OR point at Player and Press "C"
+- To select Target Survivor you need point at him and Press "C"
 
 
 [V] - Fly *(rage function)*
