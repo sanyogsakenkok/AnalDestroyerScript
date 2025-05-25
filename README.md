@@ -81,7 +81,7 @@ Base Value: 18(you can change this parameter)
 - Just teleport to there for waiting endgame or smth else
 
 
-[C] - Remote Generator Repair *(rage function, **100% ban**)*
+[M] - Remote Generator Repair *(rage function, **100% ban**)*
 
 - Teleporting you to Generator and gives 5 seconds to start repairing. After you started repairing you will teleport back in your last position!
 - If in 5 seconds you isnt started repairing you anyway will back in your last position
@@ -125,6 +125,12 @@ Animation Name: "Snake It"(soon you can change it to other animations in list)
 - you can use this animation for free(without 100k bloodpoints payment)
 
 
+[Circle at Center] - Special function for Select Targets
+
+- Point at Player and Press "C" to select him
+- So you can teleport to him or Insta TP
+
+
 [Killer Revealer] - New Script
 
 - Allows to Check player's Killer in Lobby
@@ -142,6 +148,8 @@ Animation Name: "Snake It"(soon you can change it to other animations in list)
 
 *Explosing Sound & Notifier* - if you heard sound and saw notify then all is OK
 
+*Circle at Center* - useful thing to other functions work
+
 *ESP* - allows to see all players and selected objects on the map
 
 You can Enable/Disable ESP
@@ -155,7 +163,7 @@ You can Change FOV value(press "PgUp" to increase, press "PgDown" to decrease)
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 1.5.7
+**version:** 1.5.8
 
 **Full Showcase of Script:**
 
