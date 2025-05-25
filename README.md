@@ -42,7 +42,7 @@ Base Strength: 35
 ![0503(3)](https://github.com/user-attachments/assets/9e8737d7-68df-479b-99a4-f42ff32fccd9)
 
 
-[Q] - SpeedHack *(legit/rage function, **sometimes bannable**)*
+[Q] - SpeedHack *(legit/rage function)*
 Base Value: 18(you can change this parameter)
 
 - **Speedhack** smoothly multiplies your speed to value setted by you
@@ -53,53 +53,54 @@ Base Value: 18(you can change this parameter)
 ![0503(2)](https://github.com/user-attachments/assets/28c70432-70a8-4373-91eb-76bf52b46287)
 
 
-[Up Arrow] - Teleport to Killer *(rage function, **100% ban**)*
+[Up Arrow] - Teleport to Killer *(rage function)*
 
 - Allows teleporting to killer
 - You can repair generator for abuse UpArrow + DownArrow and you will push killer into sky
 
 
-[Down Arrow] - Teleport to Hatch *(rage function, **100% ban**)*
+[Down Arrow] - Teleport to Hatch *(rage function)*
 
 - Allows teleporting to Hatch and Insta Escape
 - You can repair generator for abuse UpArrow + DownArrow and you will push killer into sky
 
 
-[J] - Teleport to ExitGate *(rage function, **100% ban**)*
+[J] - Teleport to ExitGate *(rage function)*
 
 - Easily escape by this
 
 
-[U] - Teleport to Survivors *(rage function, **100% ban**)*
+[U] - Teleport to Survivors *(rage function)*
 
 - Allows teleporting to Survivors
 
 
-[Y] - Teleport to Secret Place *(rage function, **100% ban**)*
+[Y] - Teleport to Secret Place *(rage function)*
 
 - You will teleported into unkown place
 - Just teleport to there for waiting endgame or smth else
 
 
-[M] - Remote Generator Repair *(rage function, **100% ban**)*
+[M] - Remote Generator Repair *(rage function)*
 
-- Teleporting you to Generator and gives 5 seconds to start repairing. After you started repairing you will teleport back in your last position!
+- Teleporting you to Generator thats near to be Repaired and gives 5 seconds to start repairing. After you started repairing you will teleport back in your last position!
 - If in 5 seconds you isnt started repairing you anyway will back in your last position
 
 
-[N] - Remote Heal *(rage function, **100% ban**)*
+[N] - Remote Interaction *(rage function)*
 
-- You will teleported to Survivor and teleported in your last position
-- You need to Click Left Mouse to start Heal(do it fast)
-- To select Target Survivor open **"Function's Settings"** - **[Delete] bind** and select **"Target Username"**(click to change)
+- Types of Remote Interaction: Players(insta tp to selected target to do something), Exit Gates(insta tp to exit gate to open), Chests(insta tp to any closed chest to open)
+- For example: You will insta teleported to Survivor and teleported in your last position
+- You need to Click Left Mouse to start Heal or something else(do it fast)
+- To select Target Survivor open **"Function's Settings"** - **[Delete] bind** and select **"Target Username"**(click to change) OR point at Player and Press "C"
 
 
-[V] - Fly *(rage function, **100% ban**)*
+[V] - Fly *(rage function)*
 
 - Just fly away from killer
 
 
-[H] - Stun Yourself *(fun/rage function, **sometimes bannable**)*
+[H] - Stun Yourself *(fun/rage function,)*
 
 - Just stun yourself with Killer animation
 
@@ -111,7 +112,7 @@ Base Value: 18(you can change this parameter)
 - Looks nice idk
 
 
-[Z] - Health State Changer *(fun/rage function, **sometimes bannable**)*
+[Z] - Health State Changer *(fun/rage function)*
 
 - **Warning:** this only affects visuals. The server still sees you as injured/downed, so killers can still grab you
 - Change your **HealthState** to mess with survivors/killers. If downed, forcing a "healthy" state can make the killer DC in confusion when you suddenly run away.
@@ -163,7 +164,7 @@ You can Change FOV value(press "PgUp" to increase, press "PgDown" to decrease)
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 1.5.8
+**version:** 1.6.0
 
 **Full Showcase of Script:**
 
