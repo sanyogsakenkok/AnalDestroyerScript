@@ -108,7 +108,7 @@ Base Value: 18(you can change this parameter)
 [X] - Auto Moonwalk *(legit function)*
 
 - Toggle moonwalk by pressing the key to Moonwalk backward or forward
-- To change direction of Moonwalk open **"Function's Settings"*** - **[Delete] bind** and write there type of Moonwalk: 1 - Backward, 2 - Forward
+- To change direction of Moonwalk open **"Function's Settings"*** - **[Delete] bind** and write there type of Moonwalk: 1 - Backward, 2 - Forward, 3 - Left Side, 4 - Ride Side
 - Looks nice idk
 
 
@@ -119,17 +119,26 @@ Base Value: 18(you can change this parameter)
 - After using a **Health State Changer** while injured/downed, you must manually switch back to the correct state (injured/downed) to allow healing or recovery actions.
 
 
-[B] - Bully Dance *(fun)*
-Animation Name: "Snake It"(soon you can change it to other animations in list)
+[B] - Dance *(fun)*
+Default Animation: "Snake It"
 
 - allows to run/walk/crouch/doing things with this animation
 - you can use this animation for free(without 100k bloodpoints payment)
+- you can change animation on other in list(open **"Function's Settings"** - [Delete] bind)
+
+
+[K] - Killer BOT ***([!] destroy level function [!])***
+
+- You'll be teleported to Any Alive Survivor and You need to Kill him. After killing You'll be teleported to other Alive Survivor.
+- If You kill everyone You'll be teleported to Survivor thats dying to Pick Up him. If you Picked Up him You'll be teleported to Any Free Hook.
+- *ez -4!* But you need to Click Left Mouse to Hit Survivors and SpaceBar to Pick Up/Hook Them!
 
 
 [Circle at Center] - Special function for Select Targets
 
 - Point at Player and Press "C" to select him
 - So you can teleport to him or Insta TP
+- You can OFF circle by pressing [L] bind
 
 
 [Killer Revealer] - New Script
@@ -164,9 +173,11 @@ You can Change FOV value(press "PgUp" to increase, press "PgDown" to decrease)
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 1.6.0
+**version:** 1.7.5
 
 **Full Showcase of Script:**
+
+[*CLICK(v1.7.0, "Killer BOT" showcase)*](https://youtu.be/L1AqbZWkh34?si=xG0ZapZYNwZHzh1_&t=10)
 
 [*CLICK(v1.4.9)*](https://youtu.be/p2OvGk8UbEk)
 
