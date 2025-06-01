@@ -20,6 +20,8 @@ This Script allows to Dominate in this Place!
 
 **Full Showcase of Script:**
 
+[*CLICK(v2.0.0)*](https://youtu.be/pLA9YROpnsA)
+
 [*CLICK(v1.7.0, "Killer BOT" showcase)*](https://youtu.be/L1AqbZWkh34?si=xG0ZapZYNwZHzh1_&t=10)
 
 [*CLICK(v1.4.9)*](https://youtu.be/p2OvGk8UbEk)
