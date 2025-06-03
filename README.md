@@ -16,7 +16,7 @@ This Script allows to Dominate in this Place!
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 2.0.0
+**version:** 2.2.0
 
 **Full Showcase of Script:**
 
