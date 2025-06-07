@@ -1,9 +1,14 @@
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
-task.spawn(function() local PlayerGui = LocalPlayer:WaitForChild("PlayerGui") local LoadScreen = PlayerGui:WaitForChild("LoadScreen") local LoadMenu = LoadScreen:WaitForChild("LoadMenu") local Navigation = LoadMenu:WaitForChild("Navigation") local StateLabel = Navigation:WaitForChild("State")
-    StateLabel:GetPropertyChangedSignal("Text"):Connect(function() if StateLabel.Text == "GAME IS STARTING!" then task.wait(3)
-        -- loading string here
-          loadstring(game:HttpGet("https://raw.githubusercontent.com/sanyogsakenkok/AnalDestroyerScript/main/scripts/main.lua"))()
+
+task.spawn(function()
+    local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
+    local LoadScreen = PlayerGui:WaitForChild("LoadScreen")
+
+    LoadScreen.AncestryChanged:Connect(function(_, parent)
+        if not parent then -- LoadScreen был уничтожен
+            task.wait(1)
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/sanyogsakenkok/AnalDestroyerScript/main/scripts/main.lua"))()
         end
     end)
 end)
