@@ -12,11 +12,90 @@ This Script allows to Dominate in this Place!
 !!! **Important** Script may be detected because I got many bans... !!!
 
 
+# KEYBINDS
+**Rage Dash (G)**
+- Press to push yourself forward (doesn't work while running).
+- You can change the value in the [FUNCTIONS] tab!
+
+**Legit Dash (F)**
+- Press to smoothly push yourself forward while running.
+- You can change the value in the [FUNCTIONS] tab!
+
+**Jump (T)**
+- Press to JUMP!
+
+**Speedhack (Q)**
+- Hold to use Speedhack.
+- You can change the value in the [FUNCTIONS] tab!
+
+**Toggle MoonWalk (X)**
+- Toggle to enable/disable Moonwalk.
+- You can change direction in the [FUNCTIONS] tab!
+
+**Change HealthState (Z)**
+- Press to change your health status.
+- Works client-side; server still sees your real state.
+- Even when killed, you can appear healthy and perform actions.
+- Be careful — the killer can still pick you up!
+
+**Toggle Fly (V)**
+- Toggle Fly mode.
+- If you perform actions while flying, you may get bugged. Be careful!
+
+**Toggle Animation (B)**
+- Play any allowed animation.
+- You can change the animation in the [FUNCTIONS] tab!
+
+**Stun Yourself (H)**
+- Stuns yourself to make carried Survivors instantly escape your shoulders.
+- Works only for Killer!
+
+**TP to Platform (Y)**
+- Teleport under the map onto a platform using this TP exploit.
+
+**TP to Selected Survivor (U)**
+- Teleport to the Selected Survivor.
+- Select target via the [Select Target] function.
+
+**TP to Exit Gate (J)**
+- Teleport to Exit Gates.
+- If gates are open, you can instantly escape!
+
+**TP to Killer (UpArrow)**
+- Teleport to the Killer using this TP exploit.
+
+**TP to Hatch (DownArrow)**
+- Teleport to the Hatch.
+- If you are the last Survivor, you can instantly escape!
+
+**Use Remote Interaction (N)**
+
+Extra TP exploit:
+- Players: teleport to selected player and back (Remote-Heal, Remote-Unhook).
+- Exit Gates: teleport to closed gate to open it.
+- Hooks: teleport to nearest hook to sabotage it.
+
+**Remote Repair (M)**
+- Teleport to the most repaired Generator and wait.
+- When you start repairing, teleport back to your last position.
+- If you don't start repairing, you still teleport back.
+
+**Toggle Circle (K)**
+- Enable/Disable the center Circle.
+- This helps to select targets by aiming.
+
+**Select Target (C)**
+- Aim at a target using the center Circle and press to select it.
+
+**ULTRA GOD-RAGE MODE (Alt+F4)**
+- Also, you get Robux!
+
+
 # CREDITS
 [DeadByRobloxDestroyers GANG]
 
 *SanyogSakenKok* && *GlebASS*
-**version:** 2.3.0
+**version:** 2.4.7
 
 **Full Showcase of Script:**
 
