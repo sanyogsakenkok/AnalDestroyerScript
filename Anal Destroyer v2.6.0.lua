@@ -7,7 +7,12 @@ task.spawn(function()
     LoadScreen.AncestryChanged:Connect(function(_, parent) 
         if not parent then 
             task.wait(1)
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/sanyogsakenkok/AnalDestroyerScript/main/scripts/main.lua"))()
+            local success, err = pcall(function()
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/sanyogsakenkok/AnalDestroyerScript/main/scripts/main.lua"))()
+            end)
+            if not success then
+                warn("Failed to load script:\n", err)
+            end
         end
     end)
 end)
