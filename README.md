@@ -129,19 +129,5 @@ Extra TP exploit:
 *Salvation*/*Rakish* - allows to escape off of first hook if you unhooked any survivor **OR** if you was hooked in the basement
 
 
-[Realization]
-
-- Set **FastVault Speed**(press "Delete" to open Configuration) to 0.60, you will be faster at fast vaults(but not at pallets) and no one says about your fast vaults(*legit*)
-- Set **Speedhack**(press "Delete" to open Configuration or change it in pre-start configuration) to 2.0 and just hold Q sometime(*rage/legit*, guys saying GG after that :D)
-- Set **ESP Settings** in Pre-Start Configuration: ***Pallets,Windows,Players & Killer,Generators,Hatch,Exit Gate***, allows to see everything and chasing like a god without any speedhacks(*fully legit*)
-- In chase you already getting advantage(EPS, speedhack, hacked fast vaults); if killer going to hit you press **Dodge Perk**(not Legit Dash); Chase some time and press **Legit Dash** for increase distance but not in hit timing because killer easily give you a hit(*legit gameplay*)
-- In chase you can use **Rage Dash**/**Legit Dash** everytime killer getting near you, just do it(Legit Dash) or teleport(Rage Dash) into any construction(*rage gameplay*)
-- If you got killed and you in downed state just teleport somewhere and recover(with **Best Build** you recovering so fast, *rage gameplay*)
-- Important to safe someone from hook because it grants you ***Salvation Perk*** so you 100% escaping from first hook **OR** just nevermind about saving and get killed in the basement to also 100% escape from first hook(*legit gameplay*)
-- You can OFF all functions(dashes, speedhack, vaults) and just ON ESP, 100% legit gameplay
-- To safe anyone from hooking, teleport to near hook and start sabotaging it with ***Toolbox*** and teleport somewhere while Sabotaging, killers dont understanding whats going on(*rage gameplay*)
-- Enjoy of Destroying DBR!
-
-
 ## UPCOMING FUNCTIONS
 - Searching an extra features for our Script, no ideas rn
