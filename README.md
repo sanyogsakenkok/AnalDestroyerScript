@@ -9,8 +9,6 @@ This Script allows to Dominate in this Place!
 
 *Be careful while using Rage Functions! They're not signed like that for nothing.*
 
-!!! **Important** Script may be detected because I got many bans... !!!
-
 
 # KEYBINDS
 **Rage Dash (G)**
