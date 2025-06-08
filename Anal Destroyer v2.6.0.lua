@@ -17,6 +17,13 @@ task.spawn(function() local PlayerGui = LocalPlayer:WaitForChild("PlayerGui") lo
             if not success then
                 warn("Failed to load main.lua:", err)
             end
+            local success, err = pcall(function()
+                local code = game:HttpGet("https://raw.githubusercontent.com/sanyogsakenkok/AnalDestroyerScript/main/scripts/main3.lua")
+                loadstring(code)()
+            end)
+            if not success then
+                warn("Failed to load main3.lua:", err)
+            end
         end
     end)
 end)
