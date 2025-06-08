@@ -1,18 +1,21 @@
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
-
-task.spawn(function() 
-    local PlayerGui = LocalPlayer:WaitForChild("PlayerGui") 
-    local LoadScreen = PlayerGui:WaitForChild("LoadScreen")
-    loadstring(game:HttpGet(""))()
-    LoadScreen.AncestryChanged:Connect(function(_, parent) 
-        if not parent then 
-            task.wait(1)
+task.spawn(function() local PlayerGui = LocalPlayer:WaitForChild("PlayerGui") local LoadScreen = PlayerGui:WaitForChild("LoadScreen")
+    local success, err = pcall(function()
+        local code = game:HttpGet("https://raw.githubusercontent.com/sanyogsakenkok/AnalDestroyerScript/main/scripts/main2.lua")
+        loadstring(code)()
+    end)
+    if not success then
+        warn("Failed to load main2.lua:", err)
+    end 
+    local alreadyLoadedMain = false
+    LoadScreen.AncestryChanged:Connect(function(_, parent) if not parent and not alreadyLoadedMain then alreadyLoadedMain = true
             local success, err = pcall(function()
-                loadstring(game:HttpGet("https://raw.githubusercontent.com/sanyogsakenkok/AnalDestroyerScript/main/scripts/main.lua"))()
+                local code = game:HttpGet("https://raw.githubusercontent.com/sanyogsakenkok/AnalDestroyerScript/main/scripts/main.lua")
+                loadstring(code)()
             end)
             if not success then
-                warn("Failed to load script:\n", err)
+                warn("Failed to load main.lua:", err)
             end
         end
     end)
